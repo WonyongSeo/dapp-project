@@ -1,4 +1,6 @@
-# DApp_lottery
+# DApp_Lottery
 
-### DApp development based on online course
-### https://www.inflearn.com/course/ethereum-dapp#
+### Ethereum DApp development based on online course
+
+* This project is based on following online course
+* https://www.inflearn.com/course/ethereum-dapp#
